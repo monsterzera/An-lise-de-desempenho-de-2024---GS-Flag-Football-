@@ -1,0 +1,18 @@
+Projeto de desenvolvimento de dashboard para o departamento de 
+scout do Paraná Clube Guardian Saints Flag Football.
+
+O intuito é reunir em um só relatório todos os nossos dados de 
+desempenho da temporada de 2024, garantindo insights valiosos e que
+serão úteis para a temporada de 2025.
+
+Além das estatísticas gerais, temos as estatísticas por unidade
+(ataque e defesa) e estatísticas individuais com cada atleta.
+
+Desde já, agradeço ao Matheus (companheiro de departamento), respon-
+sável por desenvolver toda a base de dados analisando jogo por jogo.
+
+No mais, aproveitem os insights aqui inseridos e no caso de dúvidas,
+basta entrar em contato pelos canais de comunicação disponíveis no
+GitHub. 
+
+Abraço a todos! :D
